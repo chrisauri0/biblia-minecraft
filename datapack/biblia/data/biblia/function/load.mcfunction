@@ -9,3 +9,6 @@ scoreboard objectives add biblia_saltar trigger
 # Version del mapa guardada en el mundo (sirve para migraciones al actualizar)
 scoreboard objectives add biblia_version dummy
 scoreboard players set #mapa biblia_version 1
+
+# Mantiene cargada la zona de inicio de la creacion (si no, el fill de la plataforma falla)
+execute in biblia:genesis run forceload add -16 -16 16 16

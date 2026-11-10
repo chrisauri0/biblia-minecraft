@@ -1,5 +1,5 @@
 {
-	"type": "minecraft:overworld",
+	"type": "biblia:genesis",
 	"generator": {
 		"type": "minecraft:flat",
 		"settings": {
