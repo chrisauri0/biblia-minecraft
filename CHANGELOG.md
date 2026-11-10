@@ -13,3 +13,4 @@
 - 0.1.6: fondo marino con corales, algas y pepinos; mas variedad de peces; menos pasto, mas flores y 10 tipos de arboles (scripts/generar-escenas.py).
 - 0.1.7: Genesis 2 y 3 (Eden) como escena narrada: jardin, rios, dos arboles, Adan, animales, Eva, serpiente, expulsion. Funcion central biblia:eden/en.
 - 0.1.8: el Eden usa altura fija y=64 (mundo superplano de vacio) y camino de salida.
+- 0.1.9: Genesis 4 (Cain y Abel, ciudad de Enoc) y Genesis 5 (genealogia en pilares) en la Tierra de Nod, via biblia:tierra/en.

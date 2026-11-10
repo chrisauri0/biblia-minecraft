@@ -15,3 +15,4 @@ execute in biblia:genesis run forceload add -32 -32 32 32
 
 # Mantiene cargada la zona del Eden (PRUEBA: coordenadas provisionales, cambiar al mapa real)
 execute in minecraft:overworld run forceload add 2384 884 2432 916
+execute in minecraft:overworld run forceload add 2484 884 2516 916
