@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "biblia",
+	"version": "${version}",
+	"name": "Biblia",
+	"description": "Mod del mapa de Minecraft que cuenta la historia de la Biblia en orden cronologico.",
+	"authors": [
+		"Christopher"
+	],
+	"license": "All-Rights-Reserved",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.biblia.BibliaMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
